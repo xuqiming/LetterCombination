@@ -1,0 +1,10 @@
+.idea
+*.iml
+out
+gen
+.gradle
+build
+doc
+gradle
+generated
+metamodels
